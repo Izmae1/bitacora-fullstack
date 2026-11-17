@@ -1,2 +1,2 @@
 # bitacora-fullstack
-Repositorio desarrollado en el curso fullstack - Walter Ismael MArtinez Gonzalez
+Bitácora técnica del curso Desarrollo Web Full Stack Junior
